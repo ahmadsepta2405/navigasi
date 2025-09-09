@@ -20,8 +20,7 @@ Pada file [main.dart](lib/main.dart), buat widget MyApp sebagai entry point apli
 
 ## 6. Menjalankan Aplikasi
 Jalankan aplikasi dengan perintah:
-```sh
 flutter run
 
-## Hasil akhir
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b5347b3-1896-4d47-8895-987d41f18497" />
+## 7. Hasil akhir
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ddbc7408-1a79-4b7d-a144-ef4b9c21c83f" />
