@@ -24,4 +24,4 @@ Jalankan aplikasi dengan perintah:
 flutter run
 
 ## Hasil akhir
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/a7648898-c10d-4f0b-b8b6-684c1b27617c" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2b5347b3-1896-4d47-8895-987d41f18497" />
